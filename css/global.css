@@ -1,0 +1,28 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html,
+body {
+ font-size: 16px;
+ background-color: #fff;
+ color: #111;
+ line-height: 1.5;
+ letter-spacing: -0.23px;
+ overflow-x: hidden;
+ scroll-behavior: smooth;
+}
+ul,
+li {
+ list-style: none;
+}
+a {
+ display: block;
+ text-decoration: none;
+ color: #111;
+}
+img {
+ border: 0;
+ vertical-align: middle;
+}
